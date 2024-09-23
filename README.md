@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaturvedi-anil&label=Profile%20views&color=0e75b6&style=flat" alt="chaturvedi-anil" /> </p>
 
-- 🔭 I’m currently working on [Replatform](https://replatform.dev)
+- 🔭 I’m currently working at [Replatform](https://replatform.dev)
 
 - 💬 Ask me about **reactjs, expressjs, nodejs, javascript**
 
